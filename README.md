@@ -1,0 +1,2 @@
+# Decimal-to-Base-Converter
+This C program uses the concept of a command line program. The code that I wrote reads in two arguments from the command line, a decimal number and base in which to express the decimal number. The program handles each of the cases (wrong number of arguments, one argument, two arguments) and render the result in the target base. It also checks that the input arguments are within bounds.
